@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "target": "ES6",
+        "noImplicitAny": true,
+        "resolveJsonModule": true,
+        "moduleResolution": "node",
+        "outDir": "build",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "noImplicitUseStrict": true
+    },
+
+    "files": ["index.ts"],
+    "exclude": ["node_modules"]
+}

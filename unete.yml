@@ -1,0 +1,8 @@
+main: ./index.js
+name: Unete-IO
+host: 127.0.0.1
+port: 8080
+logo: null
+https: null
+log: ./unete.log
+log_persist: false
