@@ -1,4 +1,4 @@
-main: ./index.js
+main: ./build/index.js
 name: Unete-IO
 host: 127.0.0.1
 port: 8080

@@ -12,6 +12,6 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "yarn build && cd build && unete serve"
+    "start": "yarn build && unete serve"
   }
 }
