@@ -5,12 +5,11 @@
   "repository": "git@github.com:CamiloTD/-unete-cli-typescript.git",
   "author": "CamiloTD <camilotd1999@gmail.com>",
   "license": "MIT",
-
   "dependencies": {
+    "@unete/cli": "^1.0.0-15",
     "tsc": "^1.20150623.0",
     "typescript": "^3.8.3"
   },
-
   "scripts": {
     "build": "tsc",
     "start": "yarn build && cd build && unete serve"
